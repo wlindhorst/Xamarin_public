@@ -1,0 +1,11 @@
+C:\Code\XamarinCarouselPage\XamarinCarouselPage\XamarinCarouselPage\bin\Debug\netstandard2.0\XamarinCarouselPage.deps.json
+C:\Code\XamarinCarouselPage\XamarinCarouselPage\XamarinCarouselPage\bin\Debug\netstandard2.0\XamarinCarouselPage.dll
+C:\Code\XamarinCarouselPage\XamarinCarouselPage\XamarinCarouselPage\bin\Debug\netstandard2.0\XamarinCarouselPage.pdb
+C:\Code\XamarinCarouselPage\XamarinCarouselPage\XamarinCarouselPage\obj\Debug\netstandard2.0\XamarinCarouselPage.csprojResolveAssemblyReference.cache
+C:\Code\XamarinCarouselPage\XamarinCarouselPage\XamarinCarouselPage\obj\Debug\netstandard2.0\XamarinCarouselPage.csproj.CoreCompileInputs.cache
+C:\Code\XamarinCarouselPage\XamarinCarouselPage\XamarinCarouselPage\obj\Debug\netstandard2.0\XamarinCarouselPage.App.xaml.g.cs
+C:\Code\XamarinCarouselPage\XamarinCarouselPage\XamarinCarouselPage\obj\Debug\netstandard2.0\XamarinCarouselPage.MainPage.xaml.g.cs
+C:\Code\XamarinCarouselPage\XamarinCarouselPage\XamarinCarouselPage\obj\Debug\netstandard2.0\XamarinCarouselPage.AssemblyInfoInputs.cache
+C:\Code\XamarinCarouselPage\XamarinCarouselPage\XamarinCarouselPage\obj\Debug\netstandard2.0\XamarinCarouselPage.AssemblyInfo.cs
+C:\Code\XamarinCarouselPage\XamarinCarouselPage\XamarinCarouselPage\obj\Debug\netstandard2.0\XamarinCarouselPage.dll
+C:\Code\XamarinCarouselPage\XamarinCarouselPage\XamarinCarouselPage\obj\Debug\netstandard2.0\XamarinCarouselPage.pdb

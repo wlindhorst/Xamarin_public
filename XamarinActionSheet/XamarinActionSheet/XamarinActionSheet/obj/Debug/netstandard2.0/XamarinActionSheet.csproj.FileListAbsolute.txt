@@ -1,0 +1,11 @@
+E:\Code\XamarinActionSheet\XamarinActionSheet\XamarinActionSheet\bin\Debug\netstandard2.0\XamarinActionSheet.deps.json
+E:\Code\XamarinActionSheet\XamarinActionSheet\XamarinActionSheet\bin\Debug\netstandard2.0\XamarinActionSheet.dll
+E:\Code\XamarinActionSheet\XamarinActionSheet\XamarinActionSheet\bin\Debug\netstandard2.0\XamarinActionSheet.pdb
+E:\Code\XamarinActionSheet\XamarinActionSheet\XamarinActionSheet\obj\Debug\netstandard2.0\XamarinActionSheet.csprojResolveAssemblyReference.cache
+E:\Code\XamarinActionSheet\XamarinActionSheet\XamarinActionSheet\obj\Debug\netstandard2.0\XamarinActionSheet.csproj.CoreCompileInputs.cache
+E:\Code\XamarinActionSheet\XamarinActionSheet\XamarinActionSheet\obj\Debug\netstandard2.0\XamarinActionSheet.App.xaml.g.cs
+E:\Code\XamarinActionSheet\XamarinActionSheet\XamarinActionSheet\obj\Debug\netstandard2.0\XamarinActionSheet.MainPage.xaml.g.cs
+E:\Code\XamarinActionSheet\XamarinActionSheet\XamarinActionSheet\obj\Debug\netstandard2.0\XamarinActionSheet.AssemblyInfoInputs.cache
+E:\Code\XamarinActionSheet\XamarinActionSheet\XamarinActionSheet\obj\Debug\netstandard2.0\XamarinActionSheet.AssemblyInfo.cs
+E:\Code\XamarinActionSheet\XamarinActionSheet\XamarinActionSheet\obj\Debug\netstandard2.0\XamarinActionSheet.dll
+E:\Code\XamarinActionSheet\XamarinActionSheet\XamarinActionSheet\obj\Debug\netstandard2.0\XamarinActionSheet.pdb

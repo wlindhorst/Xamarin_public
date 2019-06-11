@@ -1,0 +1,15 @@
+C:\Code\XamarinLists\XamarinLists\XamarinLists\bin\Debug\netstandard2.0\XamarinLists.deps.json
+C:\Code\XamarinLists\XamarinLists\XamarinLists\bin\Debug\netstandard2.0\XamarinLists.dll
+C:\Code\XamarinLists\XamarinLists\XamarinLists\bin\Debug\netstandard2.0\XamarinLists.pdb
+C:\Code\XamarinLists\XamarinLists\XamarinLists\obj\Debug\netstandard2.0\XamarinLists.csprojResolveAssemblyReference.cache
+C:\Code\XamarinLists\XamarinLists\XamarinLists\obj\Debug\netstandard2.0\XamarinLists.csproj.CoreCompileInputs.cache
+C:\Code\XamarinLists\XamarinLists\XamarinLists\obj\Debug\netstandard2.0\XamarinLists.App.xaml.g.cs
+C:\Code\XamarinLists\XamarinLists\XamarinLists\obj\Debug\netstandard2.0\XamarinLists.Demo.xaml.g.cs
+C:\Code\XamarinLists\XamarinLists\XamarinLists\obj\Debug\netstandard2.0\XamarinLists.MainPage.xaml.g.cs
+C:\Code\XamarinLists\XamarinLists\XamarinLists\obj\Debug\netstandard2.0\XamarinLists.AssemblyInfoInputs.cache
+C:\Code\XamarinLists\XamarinLists\XamarinLists\obj\Debug\netstandard2.0\XamarinLists.AssemblyInfo.cs
+C:\Code\XamarinLists\XamarinLists\XamarinLists\obj\Debug\netstandard2.0\XamarinLists.dll
+C:\Code\XamarinLists\XamarinLists\XamarinLists\obj\Debug\netstandard2.0\XamarinLists.pdb
+C:\Code\XamarinLists\XamarinLists\XamarinLists\obj\Debug\netstandard2.0\XamarinLists.Selections.xaml.g.cs
+C:\Code\XamarinLists\XamarinLists\XamarinLists\obj\Debug\netstandard2.0\XamarinLists.Refresh.xaml.g.cs
+C:\Code\XamarinLists\XamarinLists\XamarinLists\obj\Debug\netstandard2.0\XamarinLists.Search.xaml.g.cs

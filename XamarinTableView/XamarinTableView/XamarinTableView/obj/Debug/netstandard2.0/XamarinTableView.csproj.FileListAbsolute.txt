@@ -1,0 +1,12 @@
+C:\Code\XamarinTableView\XamarinTableView\XamarinTableView\bin\Debug\netstandard2.0\XamarinTableView.deps.json
+C:\Code\XamarinTableView\XamarinTableView\XamarinTableView\bin\Debug\netstandard2.0\XamarinTableView.dll
+C:\Code\XamarinTableView\XamarinTableView\XamarinTableView\bin\Debug\netstandard2.0\XamarinTableView.pdb
+C:\Code\XamarinTableView\XamarinTableView\XamarinTableView\obj\Debug\netstandard2.0\XamarinTableView.csprojResolveAssemblyReference.cache
+C:\Code\XamarinTableView\XamarinTableView\XamarinTableView\obj\Debug\netstandard2.0\XamarinTableView.csproj.CoreCompileInputs.cache
+C:\Code\XamarinTableView\XamarinTableView\XamarinTableView\obj\Debug\netstandard2.0\XamarinTableView.App.xaml.g.cs
+C:\Code\XamarinTableView\XamarinTableView\XamarinTableView\obj\Debug\netstandard2.0\XamarinTableView.Extensions.DateCell.xaml.g.cs
+C:\Code\XamarinTableView\XamarinTableView\XamarinTableView\obj\Debug\netstandard2.0\XamarinTableView.MainPage.xaml.g.cs
+C:\Code\XamarinTableView\XamarinTableView\XamarinTableView\obj\Debug\netstandard2.0\XamarinTableView.AssemblyInfoInputs.cache
+C:\Code\XamarinTableView\XamarinTableView\XamarinTableView\obj\Debug\netstandard2.0\XamarinTableView.AssemblyInfo.cs
+C:\Code\XamarinTableView\XamarinTableView\XamarinTableView\obj\Debug\netstandard2.0\XamarinTableView.dll
+C:\Code\XamarinTableView\XamarinTableView\XamarinTableView\obj\Debug\netstandard2.0\XamarinTableView.pdb

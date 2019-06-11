@@ -1,0 +1,12 @@
+C:\Code\XamarinNavigation\XamarinNavigation\XamarinNavigation\bin\Debug\netstandard2.0\XamarinNavigation.deps.json
+C:\Code\XamarinNavigation\XamarinNavigation\XamarinNavigation\bin\Debug\netstandard2.0\XamarinNavigation.dll
+C:\Code\XamarinNavigation\XamarinNavigation\XamarinNavigation\bin\Debug\netstandard2.0\XamarinNavigation.pdb
+C:\Code\XamarinNavigation\XamarinNavigation\XamarinNavigation\obj\Debug\netstandard2.0\XamarinNavigation.csprojResolveAssemblyReference.cache
+C:\Code\XamarinNavigation\XamarinNavigation\XamarinNavigation\obj\Debug\netstandard2.0\XamarinNavigation.csproj.CoreCompileInputs.cache
+C:\Code\XamarinNavigation\XamarinNavigation\XamarinNavigation\obj\Debug\netstandard2.0\XamarinNavigation.App.xaml.g.cs
+C:\Code\XamarinNavigation\XamarinNavigation\XamarinNavigation\obj\Debug\netstandard2.0\XamarinNavigation.IntroductionPage.xaml.g.cs
+C:\Code\XamarinNavigation\XamarinNavigation\XamarinNavigation\obj\Debug\netstandard2.0\XamarinNavigation.WelcomePage.xaml.g.cs
+C:\Code\XamarinNavigation\XamarinNavigation\XamarinNavigation\obj\Debug\netstandard2.0\XamarinNavigation.AssemblyInfoInputs.cache
+C:\Code\XamarinNavigation\XamarinNavigation\XamarinNavigation\obj\Debug\netstandard2.0\XamarinNavigation.AssemblyInfo.cs
+C:\Code\XamarinNavigation\XamarinNavigation\XamarinNavigation\obj\Debug\netstandard2.0\XamarinNavigation.dll
+C:\Code\XamarinNavigation\XamarinNavigation\XamarinNavigation\obj\Debug\netstandard2.0\XamarinNavigation.pdb

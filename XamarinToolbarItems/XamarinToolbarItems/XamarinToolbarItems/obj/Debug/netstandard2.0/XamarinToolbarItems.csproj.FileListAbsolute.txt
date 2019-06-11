@@ -1,0 +1,11 @@
+C:\Code\XamarinToolbarItems\XamarinToolbarItems\XamarinToolbarItems\bin\Debug\netstandard2.0\XamarinToolbarItems.deps.json
+C:\Code\XamarinToolbarItems\XamarinToolbarItems\XamarinToolbarItems\bin\Debug\netstandard2.0\XamarinToolbarItems.dll
+C:\Code\XamarinToolbarItems\XamarinToolbarItems\XamarinToolbarItems\bin\Debug\netstandard2.0\XamarinToolbarItems.pdb
+C:\Code\XamarinToolbarItems\XamarinToolbarItems\XamarinToolbarItems\obj\Debug\netstandard2.0\XamarinToolbarItems.csprojResolveAssemblyReference.cache
+C:\Code\XamarinToolbarItems\XamarinToolbarItems\XamarinToolbarItems\obj\Debug\netstandard2.0\XamarinToolbarItems.csproj.CoreCompileInputs.cache
+C:\Code\XamarinToolbarItems\XamarinToolbarItems\XamarinToolbarItems\obj\Debug\netstandard2.0\XamarinToolbarItems.App.xaml.g.cs
+C:\Code\XamarinToolbarItems\XamarinToolbarItems\XamarinToolbarItems\obj\Debug\netstandard2.0\XamarinToolbarItems.MainPage.xaml.g.cs
+C:\Code\XamarinToolbarItems\XamarinToolbarItems\XamarinToolbarItems\obj\Debug\netstandard2.0\XamarinToolbarItems.AssemblyInfoInputs.cache
+C:\Code\XamarinToolbarItems\XamarinToolbarItems\XamarinToolbarItems\obj\Debug\netstandard2.0\XamarinToolbarItems.AssemblyInfo.cs
+C:\Code\XamarinToolbarItems\XamarinToolbarItems\XamarinToolbarItems\obj\Debug\netstandard2.0\XamarinToolbarItems.dll
+C:\Code\XamarinToolbarItems\XamarinToolbarItems\XamarinToolbarItems\obj\Debug\netstandard2.0\XamarinToolbarItems.pdb

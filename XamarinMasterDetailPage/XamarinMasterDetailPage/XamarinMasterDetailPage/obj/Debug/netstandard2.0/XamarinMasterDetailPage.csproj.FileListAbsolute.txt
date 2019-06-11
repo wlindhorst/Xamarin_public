@@ -1,0 +1,11 @@
+C:\Code\XamarinMasterDetailPage\XamarinMasterDetailPage\XamarinMasterDetailPage\obj\Debug\netstandard2.0\XamarinMasterDetailPage.csproj.CoreCompileInputs.cache
+C:\Code\XamarinMasterDetailPage\XamarinMasterDetailPage\XamarinMasterDetailPage\obj\Debug\netstandard2.0\XamarinMasterDetailPage.App.xaml.g.cs
+C:\Code\XamarinMasterDetailPage\XamarinMasterDetailPage\XamarinMasterDetailPage\obj\Debug\netstandard2.0\XamarinMasterDetailPage.ContactsDetailPage.xaml.g.cs
+C:\Code\XamarinMasterDetailPage\XamarinMasterDetailPage\XamarinMasterDetailPage\obj\Debug\netstandard2.0\XamarinMasterDetailPage.ContactsPage.xaml.g.cs
+C:\Code\XamarinMasterDetailPage\XamarinMasterDetailPage\XamarinMasterDetailPage\obj\Debug\netstandard2.0\XamarinMasterDetailPage.AssemblyInfoInputs.cache
+C:\Code\XamarinMasterDetailPage\XamarinMasterDetailPage\XamarinMasterDetailPage\obj\Debug\netstandard2.0\XamarinMasterDetailPage.AssemblyInfo.cs
+C:\Code\XamarinMasterDetailPage\XamarinMasterDetailPage\XamarinMasterDetailPage\obj\Debug\netstandard2.0\XamarinMasterDetailPage.dll
+C:\Code\XamarinMasterDetailPage\XamarinMasterDetailPage\XamarinMasterDetailPage\obj\Debug\netstandard2.0\XamarinMasterDetailPage.pdb
+C:\Code\XamarinMasterDetailPage\XamarinMasterDetailPage\XamarinMasterDetailPage\bin\Debug\netstandard2.0\XamarinMasterDetailPage.deps.json
+C:\Code\XamarinMasterDetailPage\XamarinMasterDetailPage\XamarinMasterDetailPage\bin\Debug\netstandard2.0\XamarinMasterDetailPage.dll
+C:\Code\XamarinMasterDetailPage\XamarinMasterDetailPage\XamarinMasterDetailPage\bin\Debug\netstandard2.0\XamarinMasterDetailPage.pdb

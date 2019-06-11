@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinFlashCardGame.FlashCardPage" >
+    <Grid Padding="20">
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="2"/>
+            <RowDefinition Height="2"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label x:Name="lblTimeLabel" Grid.Row="0" Grid.Column="0" Text="Timer: 0" FontSize="20"></Label>
+        <Label x:Name="lblCorrectCount" Grid.Row="0" Grid.Column="1" Text="Correct: 0/10" FontSize="20" HorizontalTextAlignment="End"></Label>
+            
+        <Label x:Name="lblTopNumber" Grid.Row="1" Grid.ColumnSpan="2"  Text="10" FontSize="30" HorizontalOptions="Center" />
+            
+        <Label x:Name="lblOperatorAndBottomNumber" Grid.Row="2" Grid.ColumnSpan="2" Text="5" FontSize="30" HorizontalOptions="Center"/>
+
+        <BoxView VerticalOptions="Start" HeightRequest="1" WidthRequest="500" Color="Black" Grid.Row="3" Grid.ColumnSpan="2" HorizontalOptions="Center"/>
+
+        <Entry x:Name="txtAnswer" Grid.ColumnSpan="2" Grid.Row="4"></Entry>
+
+        <Button x:Name="btnGo" Text="GO!" Grid.ColumnSpan="2" Grid.Row="5" HorizontalOptions="Center" HeightRequest="1"/>
+
+
+     </Grid>
+    
+
+</ContentPage>

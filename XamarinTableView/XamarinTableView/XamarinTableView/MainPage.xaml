@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage 
+    xmlns:local="clr-namespace:XamarinTableView.Extensions"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"             
+             x:Class="XamarinTableView.MainPage">
+    <TableView Intent="Form">
+         <TableRoot>
+            <TableSection Title="Basics">
+                <TextCell Text="Name" Detail="Zippy Slug"/>
+                <EntryCell Label="Title" Placeholder="(eg developer)"/>
+                <SwitchCell Text="Notifications" On="true"/>
+                <local:DateCell Label="Starts" />
+                <local:DateCell Label="Ends" />
+            </TableSection>
+         </TableRoot>
+    </TableView>
+
+</ContentPage>

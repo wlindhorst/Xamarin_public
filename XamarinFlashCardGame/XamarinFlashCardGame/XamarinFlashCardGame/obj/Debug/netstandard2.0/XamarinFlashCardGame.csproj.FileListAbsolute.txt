@@ -1,0 +1,11 @@
+e:\Code\XamarinFlashCardGame\XamarinFlashCardGame\XamarinFlashCardGame\obj\Debug\netstandard2.0\XamarinFlashCardGame.csproj.CoreCompileInputs.cache
+e:\Code\XamarinFlashCardGame\XamarinFlashCardGame\XamarinFlashCardGame\obj\Debug\netstandard2.0\XamarinFlashCardGame.App.xaml.g.cs
+e:\Code\XamarinFlashCardGame\XamarinFlashCardGame\XamarinFlashCardGame\obj\Debug\netstandard2.0\XamarinFlashCardGame.FlashCardPage.xaml.g.cs
+e:\Code\XamarinFlashCardGame\XamarinFlashCardGame\XamarinFlashCardGame\obj\Debug\netstandard2.0\XamarinFlashCardGame.AssemblyInfoInputs.cache
+e:\Code\XamarinFlashCardGame\XamarinFlashCardGame\XamarinFlashCardGame\obj\Debug\netstandard2.0\XamarinFlashCardGame.AssemblyInfo.cs
+e:\Code\XamarinFlashCardGame\XamarinFlashCardGame\XamarinFlashCardGame\obj\Debug\netstandard2.0\XamarinFlashCardGame.dll
+e:\Code\XamarinFlashCardGame\XamarinFlashCardGame\XamarinFlashCardGame\obj\Debug\netstandard2.0\XamarinFlashCardGame.pdb
+e:\Code\XamarinFlashCardGame\XamarinFlashCardGame\XamarinFlashCardGame\bin\Debug\netstandard2.0\XamarinFlashCardGame.deps.json
+e:\Code\XamarinFlashCardGame\XamarinFlashCardGame\XamarinFlashCardGame\bin\Debug\netstandard2.0\XamarinFlashCardGame.dll
+e:\Code\XamarinFlashCardGame\XamarinFlashCardGame\XamarinFlashCardGame\bin\Debug\netstandard2.0\XamarinFlashCardGame.pdb
+e:\Code\XamarinFlashCardGame\XamarinFlashCardGame\XamarinFlashCardGame\obj\Debug\netstandard2.0\XamarinFlashCardGame.csprojResolveAssemblyReference.cache

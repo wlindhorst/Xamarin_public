@@ -1,0 +1,13 @@
+e:\Code\XamarinMvvmDemo\XamarinMvvmDemo\XamarinMvvmDemo\bin\Debug\netstandard2.0\XamarinMvvmDemo.deps.json
+e:\Code\XamarinMvvmDemo\XamarinMvvmDemo\XamarinMvvmDemo\bin\Debug\netstandard2.0\XamarinMvvmDemo.dll
+e:\Code\XamarinMvvmDemo\XamarinMvvmDemo\XamarinMvvmDemo\bin\Debug\netstandard2.0\XamarinMvvmDemo.pdb
+e:\Code\XamarinMvvmDemo\XamarinMvvmDemo\XamarinMvvmDemo\obj\Debug\netstandard2.0\XamarinMvvmDemo.csprojResolveAssemblyReference.cache
+e:\Code\XamarinMvvmDemo\XamarinMvvmDemo\XamarinMvvmDemo\obj\Debug\netstandard2.0\XamarinMvvmDemo.csproj.CoreCompileInputs.cache
+e:\Code\XamarinMvvmDemo\XamarinMvvmDemo\XamarinMvvmDemo\obj\Debug\netstandard2.0\XamarinMvvmDemo.App.xaml.g.cs
+e:\Code\XamarinMvvmDemo\XamarinMvvmDemo\XamarinMvvmDemo\obj\Debug\netstandard2.0\XamarinMvvmDemo.MainPage.xaml.g.cs
+e:\Code\XamarinMvvmDemo\XamarinMvvmDemo\XamarinMvvmDemo\obj\Debug\netstandard2.0\XamarinMvvmDemo.Views.PlaylistDetailPage.xaml.g.cs
+e:\Code\XamarinMvvmDemo\XamarinMvvmDemo\XamarinMvvmDemo\obj\Debug\netstandard2.0\XamarinMvvmDemo.Views.PlaylistsPage.xaml.g.cs
+e:\Code\XamarinMvvmDemo\XamarinMvvmDemo\XamarinMvvmDemo\obj\Debug\netstandard2.0\XamarinMvvmDemo.AssemblyInfoInputs.cache
+e:\Code\XamarinMvvmDemo\XamarinMvvmDemo\XamarinMvvmDemo\obj\Debug\netstandard2.0\XamarinMvvmDemo.AssemblyInfo.cs
+e:\Code\XamarinMvvmDemo\XamarinMvvmDemo\XamarinMvvmDemo\obj\Debug\netstandard2.0\XamarinMvvmDemo.dll
+e:\Code\XamarinMvvmDemo\XamarinMvvmDemo\XamarinMvvmDemo\obj\Debug\netstandard2.0\XamarinMvvmDemo.pdb

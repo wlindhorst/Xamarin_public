@@ -1,0 +1,12 @@
+C:\Code\XamarinTabbed\XamarinTabbed\XamarinTabbed\bin\Debug\netstandard2.0\XamarinTabbed.deps.json
+C:\Code\XamarinTabbed\XamarinTabbed\XamarinTabbed\bin\Debug\netstandard2.0\XamarinTabbed.dll
+C:\Code\XamarinTabbed\XamarinTabbed\XamarinTabbed\bin\Debug\netstandard2.0\XamarinTabbed.pdb
+C:\Code\XamarinTabbed\XamarinTabbed\XamarinTabbed\obj\Debug\netstandard2.0\XamarinTabbed.csprojResolveAssemblyReference.cache
+C:\Code\XamarinTabbed\XamarinTabbed\XamarinTabbed\obj\Debug\netstandard2.0\XamarinTabbed.csproj.CoreCompileInputs.cache
+C:\Code\XamarinTabbed\XamarinTabbed\XamarinTabbed\obj\Debug\netstandard2.0\XamarinTabbed.App.xaml.g.cs
+C:\Code\XamarinTabbed\XamarinTabbed\XamarinTabbed\obj\Debug\netstandard2.0\XamarinTabbed.MainPage.xaml.g.cs
+C:\Code\XamarinTabbed\XamarinTabbed\XamarinTabbed\obj\Debug\netstandard2.0\XamarinTabbed.AssemblyInfoInputs.cache
+C:\Code\XamarinTabbed\XamarinTabbed\XamarinTabbed\obj\Debug\netstandard2.0\XamarinTabbed.AssemblyInfo.cs
+C:\Code\XamarinTabbed\XamarinTabbed\XamarinTabbed\obj\Debug\netstandard2.0\XamarinTabbed.dll
+C:\Code\XamarinTabbed\XamarinTabbed\XamarinTabbed\obj\Debug\netstandard2.0\XamarinTabbed.pdb
+C:\Code\XamarinTabbed\XamarinTabbed\XamarinTabbed\obj\Debug\netstandard2.0\XamarinTabbed.ContentPage1.xaml.g.cs

@@ -1,0 +1,17 @@
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\bin\Debug\netstandard2.0\XamarinTest.deps.json
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\bin\Debug\netstandard2.0\XamarinTest.dll
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\bin\Debug\netstandard2.0\XamarinTest.pdb
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.csprojAssemblyReference.cache
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.csproj.CoreCompileInputs.cache
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.AssemblyInfoInputs.cache
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.AssemblyInfo.cs
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.dll
+C:\Code\GitHub\Xamarin\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.pdb
